@@ -1,0 +1,5 @@
+gree.jks  pw:@gree2020
+
+sefaz_producao   pw :sefaz
+
+fpx:  gree21
